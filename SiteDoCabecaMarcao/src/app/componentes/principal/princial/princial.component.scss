@@ -1,0 +1,14 @@
+.div-main{
+
+    width: 100%;
+    // centralizar os componentes
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    app-cabecalho{
+        width: 100%;
+    }
+
+}

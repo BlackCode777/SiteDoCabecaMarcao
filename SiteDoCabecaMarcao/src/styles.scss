@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+// importar o bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+// colocar um fundo black com degradê lilas
+body {
+    // degradê na horizontal
+    background: linear-gradient(to right, #000000, #2c014b,  #51008b);    
+}
